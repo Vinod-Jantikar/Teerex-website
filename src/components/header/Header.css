@@ -1,0 +1,16 @@
+#header-main-div{
+    display: flex;
+    background-color: #F1F0F0;
+    justify-content: space-between;
+    padding: 0px 40px
+}
+
+#products{
+    display: flex;
+    gap: 20px;
+}
+
+#cart {
+    text-decoration: none;
+    color: #000;
+}
